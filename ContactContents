@@ -1,0 +1,22 @@
+<div id="ContactContents">
+				<h3>Get in touch!</h3>
+				<a href="https://www.facebook.com/abhinav.kurada" target="_blank">
+					<div class="social" id="facebook"></div>
+				</a>
+				<a href="https://www.twitter.com/abhinavkurada” target="_blank">
+					<div class="social" id="twitter"></div>
+				</a>
+				<a href="https://www.linkedin.com/in/abhinavkurada” target="_blank">
+					<div class="social" id="linkedin"></div>
+				</a>
+				<a href="https://www.github.com/akurada” target="_blank">
+					<div class="social" id="github"></div>
+				</a>
+				<a href="mailto:abhinav.kurada@columbia.edu">
+					<div class="social" id="email"></div>
+				</a>
+				<p="1-978-394-7327">
+					<div class="social" id="phone"></div>
+				<p>
+				
+			</div>	
