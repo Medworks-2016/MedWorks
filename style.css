@@ -175,9 +175,11 @@ hr {
     src: url('Lovelo_Black.otf') 
 	format('opentype');
 }
+/*
 .fb {
     padding-left: 30px;
 }
+*/
 .in{
     padding-right: 30px;
 }
