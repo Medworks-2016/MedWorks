@@ -123,3 +123,7 @@ div {
 	    padding-top: botom;
 
 }
+
+.password  { 
+  -webkit-text-security: circle !important; 
+}
