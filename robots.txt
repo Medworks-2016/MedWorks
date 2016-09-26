@@ -1,1 +1,1 @@
-Sitemap: http://akurada.tech/sitemap.xml
+Sitemap: http://medworks.tech/sitemap.xml
