@@ -16,6 +16,11 @@ body {
     bottom: 0;
     font-family: 'Lato', sans-serif;
 }
+
+.stop-scrolling {
+  height: 100%;
+  overflow: hidden;
+}
 ul {
     list-style-type: none;
     margin: 0;
